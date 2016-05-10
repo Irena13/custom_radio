@@ -2,22 +2,23 @@
 Radio button widget
 
 
-Require:
+###Require:
 jquery library
 
-Usage:
+###Usage:
 in html file please insert this code in the <head>
-<pre><code><link rel="stylesheet" href="css/custom_radio.css" />
-    <script src="js/custom_radio.js"></script></code></pre>
+```
+<link rel="stylesheet" href="css/custom_radio.css" />
+    <script src="js/custom_radio.js"></script>
 
 To create a custom radio widget:
 
-the custom_radio class is mandatory
-
-<pre><code><div class="custom_radio">
+the **custom_radio** class is mandatory
+```
+<div class="custom_radio">
     <input type="radio" name="choice" value="yes"/><label>Yes</label>
     <input type="radio" name="choice" value="no"/><label>No</label>
     <input type="radio" name="choice" value="maybe"/><label>Maybe</label>
-</div></code></pre>
+</div>```
 
 and that's all !
