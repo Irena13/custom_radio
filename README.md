@@ -19,6 +19,6 @@ the **custom_radio** class is mandatory
     <input type="radio" name="choice" value="yes"/><label>Yes</label>
     <input type="radio" name="choice" value="no"/><label>No</label>
     <input type="radio" name="choice" value="maybe"/><label>Maybe</label>
-</div>```
+</div>
 
 and that's all !
